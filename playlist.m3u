@@ -131,6 +131,8 @@ https://play.megafon.tv/out/u/v1-video-6348331.mpd
 https://play.megafon.tv/out/u/v1-video-7969097.mpd
 #EXTINF:-1,КИНО ТВ HD
 https://play.megafon.tv/out/u/v1-video-7969543.mpd
+#EXTINF:-1,Индия ТВ
+http://51.68.141.106:8081/tv/ind-kino/playlist.m3u8
 #EXTINF:-1,Bollywood HD
 https://play.megafon.tv/out/u/v1-video-6370563.mpd
 #EXTINF:-1,Zee Russia
