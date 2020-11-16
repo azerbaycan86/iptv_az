@@ -129,6 +129,8 @@ https://play.megafon.tv/out/u/v1-video-6348298.mpd
 https://play.megafon.tv/out/u/v1-video-6348331.mpd
 #EXTINF:-1,Еврокино
 https://play.megafon.tv/out/u/v1-video-7969097.mpd
+#EXTINF:-1,vip premiere
+http://mnogotv.club:8084/tv/ch124/playlist.m3u8
 #EXTINF:-1,КИНО ТВ HD
 https://play.megafon.tv/out/u/v1-video-7969543.mpd
 #EXTINF:-1,Индия ТВ
