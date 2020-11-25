@@ -37,7 +37,3 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
 #EXTINF:-1,Индия ТВ
 http://51.68.141.106:8081/tv/ind-kino/playlist.m3u8
-#EXTINF:-1,Bollywood HD
-http://83.149.14.34/out/u/v1-video-6370563.mpd
-#EXTINF:-1,Zee TV
-http://83.149.14.34/out/u/v1-video-7731223.mpd
