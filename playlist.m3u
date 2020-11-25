@@ -25,12 +25,18 @@ http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/chunklist_w1960878
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
 #EXTINF:-1,Umid TV
 https://cdn1-umudtv.yayin.com.tr/umudtv/ngrp:umudtv/chunklist_w1275895540_b1726279.m3u8
-#EXTINF:-1,UtvShow
-https://cdn1-utvshow.yayin.com.tr/utvshow/ngrp:utvshow/playlist.m3u8
 #EXTINF:-1,Qabala tv
 https://qebele.tv/live/stream/index.m3u8
 #EXTINF:-1,Turan tv
 http://185.132.178.34:7500/Turan-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TRT1
+https://tv-trt1.live.trt.com.tr/master_480.m3u8
+#EXTINF:-1,SHOW TV TURK
+http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+#EXTINF:-1,NTV SPORT
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:-1,NTV HD TURK
+http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
 #EXTINF:-1,Индия ТВ
 http://51.68.141.106:8081/tv/ind-kino/playlist.m3u8
 #EXTINF:-1,Bollywood HD
